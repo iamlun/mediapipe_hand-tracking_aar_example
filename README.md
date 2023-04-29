@@ -1,0 +1,1 @@
+# mediapipe_hand-tracking_aar_example
